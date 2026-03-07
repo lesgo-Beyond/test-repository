@@ -9,3 +9,5 @@ This is the second edit from my local computer.
 Pulling tutorial
 
 Conflicting code remote
+
+local code conflict
